@@ -1,0 +1,7 @@
+Search url for curl:
+
+https://duckduckgo.com/?q=Donald+Trump&iax=1&ia=news
+
+Regular experssion to pull new tiles:
+
+<div\s+class="tile\s+tile--c--w\s+tile--news".*?>.*?<\/div>
